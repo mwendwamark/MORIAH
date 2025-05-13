@@ -1,0 +1,36 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Mirage';
+  src: url('./assets/fonts/Mirage-400.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mirage';
+  src: url('./assets/fonts/Mirage-500.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mirage';
+  src: url('./assets/fonts/Mirage-600.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mirage';
+  src: url('./assets/fonts/Mirage-800.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mirage';
+  src: url('./assets/fonts/Mirage-900.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}

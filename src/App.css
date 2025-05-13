@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+:root {
+  --bg-color: #f6f1e7;
+  --bg-alt-color: rgb(237, 231, 212);
+  --green-color: rgb(37, 68, 44);
+  --light-green-color: rgb(75, 87, 40);
+  --orange-color: rgb(224, 138, 10);
+  --title-color: rgb(8, 7, 5);
+  --text-color: rgb(117, 115, 107);
+}
+
+body {
+  background-color: var(--bg-color);
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-family: 'Mirage', serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--title-color);
+}
+
+h2 {
+  font-family: 'Mirage', serif;
+  font-size: 2rem;
+  font-style: italic;
+  color: var(--title-color);
+}
